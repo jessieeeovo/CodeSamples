@@ -5,11 +5,11 @@
 #### [Fashion MNIST Classification](https://deepnote.com/@jingqi-yao-ffea/Final-Project-1f5995cd-4311-4068-86f8-af2338a31b4b) (in Python)
 - Used logistic Regression and CNN
 
-#### Alzheimer’s Disease Early Prediction (in Python) [Data Cleaning](https://deepnote.com/@jingqi-yao-d9c5/CS184A-f176ac63-5434-434d-9812-dded9654a993)|[Modeling](https://deepnote.com/@jingqi-yao-d9c5/CS184Proj-752148ea-dca6-4d6c-9438-444c92421c96)
--
+#### Alzheimer’s Disease Prediction (in Python) [Data Preprocessing](https://deepnote.com/@jingqi-yao-d9c5/CS184A-f176ac63-5434-434d-9812-dded9654a993)|[Modeling](https://deepnote.com/@jingqi-yao-d9c5/CS184Proj-752148ea-dca6-4d6c-9438-444c92421c96)
+- Predicted if the patient has Alzheimer's using dataset from National Alzheimer’s Coordinating Center
 
-#### [Sudoku Solver](https://github.com/jessieeeovo/CodeSamples/tree/main/Machine%20Learning/SudokuSolver)
-- 
+#### [Sudoku Solver](https://github.com/jessieeeovo/CodeSamples/tree/main/Machine%20Learning/SudokuSolver) (in Python)
+- Implemented Forward Checking, Minimum Remaining Value heuristic, Least Constraining Value heuristic, Norvig's Check 
 
 #### [Bio-related Classification](https://github.com/jessieeeovo/CodeSamples/blob/main/Machine%20Learning/AI%20in%20Bio.pdf) (in Python)
 - Used Multilayer perceptron, CNN, and Long short-term memory network to perform the binary classification task
