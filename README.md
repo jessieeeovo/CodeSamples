@@ -9,7 +9,7 @@
 - Predicted if the patient has Alzheimer's using dataset from National Alzheimer’s Coordinating Center
 
 ### [Sudoku Solver](https://github.com/jessieeeovo/CodeSamples/tree/main/Machine%20Learning/SudokuSolver) (in Python)
-- Implemented Forward Checking, Minimum Remaining Value heuristic, Least Constraining Value heuristic, Norvig's Check 
+- Implemented Forward Checking, Minimum Remaining Value heuristic, Least Constraining Value heuristic, Norvig's Check to solve upto 25x25 Sudoku with 30 given values
 
 ### [Bio-related Classification](https://github.com/jessieeeovo/CodeSamples/blob/main/Machine%20Learning/AI%20in%20Bio.pdf) (in Python)
 - Used Multilayer perceptron, CNN, and Long short-term memory network to perform the binary classification task
