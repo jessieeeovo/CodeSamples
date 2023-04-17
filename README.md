@@ -2,6 +2,11 @@
 
 ## Machine Learning
 
+### [Movie Recommender System](https://deepnote.com/@jingqi-yao-d9c5/BTT-AI-Studio-Competition-057c168b-24e4-4062-afac-d9e9058a63b0) (in Python)
+- Used Stochastic Gradient Descent, XGBoost and Neural Networks (MLP, CNN, Wide & Deep Learning) to predict users' rating for movies based on their rating history
+- Achieved RMSE = 0.17 and ranked 2/27 in the Kaggle competition
+
+
 ### [Fashion MNIST Classification](https://deepnote.com/@jingqi-yao-ffea/Final-Project-1f5995cd-4311-4068-86f8-af2338a31b4b) (in Python)
 - Used logistic Regression and CNN
 
@@ -33,7 +38,11 @@
 - Implemented ray traversal and improved it using the Octree and early stopping based on the distance from camera
 
 ## Others
-### [Search System Project](https://github.com/jessieeeovo/InformationRetrivalProject) (in Python, in progress)
+### [Mischief in Montreal: Data Analysis](https://devpost.com/software/mischief-in-montreal) (in Python)
+- Analyzed crime reports in Montreal and investigated the causes by researching police department's reports and news
+- Submitted to EMBARK Datathon 2023 and won Best Overall, People's Choice awards
+
+### Search System Project (in Python)
 - Built a web crawler with lxml library, with url traps identification and webpage content analysis
 
 ### [Sample LeetCode Solutions](https://github.com/jessieeeovo/SampleLeetCode) (in Python)
